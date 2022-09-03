@@ -1,0 +1,5 @@
+git init
+git remove add origin git@github.com:luzardofonseca/dsmovie-css.git
+git add .
+git commit -m "nome da versão"
+git push -u origin main
